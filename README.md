@@ -9,7 +9,7 @@ Members:
 - Saklain Mustak Onik
 - Erfath Parvez
 
-<a href="https://docs.google.com/document/d/14qIu-fcgcmzxw8myyjVOecpnQlFNon1WDDPIYTxzwEI/edit" target="blank"><h2>Project Proposal</h2></a>
+<h2><a href="https://docs.google.com/document/d/14qIu-fcgcmzxw8myyjVOecpnQlFNon1WDDPIYTxzwEI/edit" target="blank">Project Proposal</a></h2>
 
 ## Live site
 
